@@ -32,13 +32,13 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # linkedin: your_username
-  # medium: @your_username
+   medium: '@shalinkbhatt'
   # stackoverflow: your_user_id
   # telegram: your_username
+   devrant: shalinbhatt
    twitter: shalin_bhatt
   # youtube: your_username
   # vk: your_username
-
 topics:
 
   - name : Rails
